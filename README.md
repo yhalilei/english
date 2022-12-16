@@ -1,2 +1,1 @@
-# english
-for english lessons
+# This repository is for english lessons
