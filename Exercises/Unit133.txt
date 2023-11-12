@@ -1,0 +1,27 @@
+133.3
+1. about
+2. of
+3. about
+4. for
+5. of
+6. for
+7. what
+8. about
+
+133.4
+1. looked for
+2. looking for
+3. looked after
+4. look for
+5. looks after
+6. looking for
+
+133.5
+1. searching for
+2. wait
+3. talk about
+4. ask for
+5. applied for
+6. do about
+7. looks after
+8. left for
